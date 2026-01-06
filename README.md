@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+<pre>
+██████╗ ██╗  ██╗ ██████╗ ████████╗ ██████╗ ███╗   ███╗
+██╔══██╗██║  ██║██╔═══██╗╚══██╔══╝██╔═══██╗████╗ ████║
+██████╔╝███████║██║   ██║   ██║   ██║   ██║██╔████╔██║
+██╔═══╝ ██╔══██║██║   ██║   ██║   ██║   ██║██║╚██╔╝██║
+██║     ██║  ██║╚██████╔╝   ██║   ╚██████╔╝██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝     ╚═╝
+</pre>
 
-<!--
-**PhotomProjects/PhotomProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+🌌 <strong>PHOTOM</strong> — フロリアン 🌌 <br/>
+<sub>Full Stack Developer</sub>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- **Front:** `HTML`、`CSS`、`JavaScript`、`React`
+- **Back:** `Node.js`、 `Express` （+ `PHP` when needed）
+- **Tooling:** `Git`、`Docker`
+
+___
+
+## Contact
+- GitHub: DM if available
+- Email: photomprojects@gmail.com
+- LinkedIn: https://www.linkedin.com/in/florianauthelin57/
+- Portfolio: authelinflorian.dev
