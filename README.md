@@ -44,9 +44,13 @@ _______ ________ ________ ________ _______ ___________
 </div>
 
 ## ≋≋STACK≋≋
-- **Front:** `HTML`、`CSS`、`JavaScript`、`React`
-- **Back:** `Node.js`、 `Express` （+ `PHP` when needed）
-- **Tooling:** `Git`、`Docker`
+
+| Domain | Technologies |
+|---|---|
+| **Front** | <img height="20" src="https://img.shields.io/badge/-HTML5-FFD6A5?style=flat-square&logo=html5&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-CSS3-B8C0FF?style=flat-square&logo=css3&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-JavaScript-FDFFB6?style=flat-square&logo=javascript&logoColor=1A1A1A" /> |
+| **Frameworks & UI** | <img height="20" src="https://img.shields.io/badge/-Astro-CDB4DB?style=flat-square&logo=astro&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-React-9BF6FF?style=flat-square&logo=react&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-Angular-FFADAD?style=flat-square&logo=angular&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-TailwindCSS-A0E7E5?style=flat-square&logo=tailwindcss&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-MDX-FFFFC7?style=flat-square&logo=mdx&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-Three.js-D0BFFF?style=flat-square&logo=threedotjs&logoColor=1A1A1A" /> |
+| **Back / Runtime** | <img height="20" src="https://img.shields.io/badge/-PHP-E0BBE4?style=flat-square&logo=php&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-Node.js-B9FBC0?style=flat-square&logo=nodedotjs&logoColor=1A1A1A" /> |
+| **Tools** | <img height="20" src="https://img.shields.io/badge/-Git-FFB5A7?style=flat-square&logo=git&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-Docker-A0C4FF?style=flat-square&logo=docker&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-Figma-FFC6FF?style=flat-square&logo=figma&logoColor=1A1A1A" /> |
 
 <div align="center">
 ⋆｡°✩ ───────────────────────────────────────────────────────────────────────────── ✩°｡⋆
