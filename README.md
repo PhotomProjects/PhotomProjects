@@ -63,9 +63,15 @@ _______ ________ ________ ________ _______ ___________
 </div>
 
 ## ≋≋SELECTED PROJECTS≋≋
-- **COMING SOON** — /
-  - Tech: 
-  - Repo: / | Demo: /
+- **Win98 Inspired Portfolio:**
+  - Tech: HTML / CSS / JavaScript (all vanilla)
+  - Repo: https://github.com/PhotomProjects/portfolio-win98
+  - Demo: authelinflorian.dev
+
+- **Multilingual Resume:**
+  - Tech: HTML / CSS / JavaScript (all vanilla)
+  - Repo: https://github.com/PhotomProjects/cv-international
+  - Demo: cv.authelinflorian.dev
 
 <div align="center">
 ⋆｡°✩ ───────────────────────────────────────────────────────────────────────────── ✩°｡⋆
