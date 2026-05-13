@@ -70,12 +70,12 @@ _______ ________ ________ ________ _______ ___________
 - **Win98 Inspired Portfolio:**
   - Tech: <img height="20" src="https://img.shields.io/badge/-HTML5-FFD6A5?style=flat-square&logo=html5&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-CSS3-B8C0FF?style=flat-square&logo=css3&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-JavaScript-FDFFB6?style=flat-square&logo=javascript&logoColor=1A1A1A" /> (all vanilla)
   - Repo: https://github.com/PhotomProjects/portfolio-win98
-  - Demo: authelinflorian.dev
+  - Demo: http://authelinflorian.dev
 
 - **Multilingual Resume:**
   - Tech: <img height="20" src="https://img.shields.io/badge/-HTML5-FFD6A5?style=flat-square&logo=html5&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-CSS3-B8C0FF?style=flat-square&logo=css3&logoColor=1A1A1A" />&nbsp;<img height="20" src="https://img.shields.io/badge/-JavaScript-FDFFB6?style=flat-square&logo=javascript&logoColor=1A1A1A" /> (all vanilla)
   - Repo: https://github.com/PhotomProjects/cv-international
-  - Demo: cv.authelinflorian.dev
+  - Demo: https://cv.authelinflorian.dev
 
 <div align="center">
 ⋆｡°✩ ────────────── ✩°｡⋆
