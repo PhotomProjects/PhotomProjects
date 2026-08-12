@@ -93,24 +93,24 @@ _______ ________ ________ ________ _______ ___________
   ___ __ ___  __ 
  |_  )  \_  )/ / 
   / / () / // _ \   Web Developer Diploma - Metz Numeric School (Metz, France)
- /___\__/___\___/   2-Month internship aat /
+ /___\__/___\___/   2-Month internship (home)
 
 
   ___ __ ___ ____ 
  |_  )  \_  )__  |
-  / / () / /  / /   Full Stack Diploma    - Metz Numeric School (Metz, France)
+  / / () / /  / /   Numerical Design Diploma    - Metz Numeric School (Metz, France)
  /___\__/___|/_/    1 Year of Work-study program at /
  
 
   ___ __ ___ ___ 
  |_  )  \_  | _ )
   / / () / // _ \   Working Holiday Visa  - Japan (destination not yet decided)
- /___\__/___\___/
+ /___\__/___\___/   Subject to change due to uncertainty
 
 
   ___ __ ___ ___ 
  |_  )  \_  ) _ \
-  / / () / /\_, /   Working Visa          - Japan
+  / / () / /\_, /   Working Visa          - Japan (destination not yet decided)
  /___\__/___|/_/ 
                  
 
