@@ -100,18 +100,6 @@ _______ ________ ________ ________ _______ ___________
  |_  )  \_  )__  |
   / / () / /  / /   Numerical Design Diploma    - Metz Numeric School (Metz, France)
  /___\__/___|/_/    1 Year of Work-study program at /
- 
-
-  ___ __ ___ ___ 
- |_  )  \_  | _ )
-  / / () / // _ \   Working Holiday Visa  - Japan (destination not yet decided)
- /___\__/___\___/   Subject to change due to uncertainty
-
-
-  ___ __ ___ ___ 
- |_  )  \_  ) _ \
-  / / () / /\_, /   Working Visa          - Japan (destination not yet decided)
- /___\__/___|/_/ 
                  
 
 ```
