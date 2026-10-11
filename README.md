@@ -91,15 +91,9 @@ _______ ________ ________ ________ _______ ___________
   ___ __ ___  __ 
  |_  )  \_  )/ / 
   / / () / // _ \   Web Developer Diploma - Metz Numeric School (Metz, France)
- /___\__/___\___/   2-Month internship (home)
+ /___\__/___\___/   2-Month internship (remote)
 
-
-  ___ __ ___ ____ 
- |_  )  \_  )__  |
-  / / () / /  / /   Numerical Design Diploma    - Metz Numeric School (Metz, France)
- /___\__/___|/_/    1 Year of Work-study program at /
                  
-
 ```
 
 <div align="center">
